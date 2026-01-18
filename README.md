@@ -4,15 +4,6 @@ Welcome to the centralized support repository for all **B65 Dev** Garmin watch f
 
 This repository is dedicated to handling bug reports, feature requests, and general questions for all our Garmin Connect IQ watch faces.
 
-## 📱 Our Watch Faces
-
-- **[FUSION IV](https://apps.garmin.com/apps/b9432d01-482d-48b4-ad7f-684345a91dcd)** - Advanced watch face with 73+ data fields
-- **PureView** - Minimalist elegance for your Garmin
-- **Basic-Fit** - Fitness-focused design
-- **Basic Goals** - Goal tracking simplified
-- **Basic Graph** - Visual data representation
-- *(More coming soon...)*
-
 ## 🎯 How to Submit
 
 ### 🐛 Report a Bug

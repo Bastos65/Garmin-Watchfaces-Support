@@ -4,6 +4,25 @@ Welcome to the centralized support repository for all **B65 Dev** Garmin watch f
 
 This repository is dedicated to handling bug reports, feature requests, and general questions for all our Garmin Connect IQ watch faces.
 
+## 📋 Before Submitting
+
+**⚠️ Please consult our FAQs first:**
+
+👉 **[Features & Bugs Reporting Guide](https://pay.b65dev.com/portfolio/faqs#features-bugs)**
+
+This section covers:
+- Quick troubleshooting steps to try first
+- How to retrieve debug logs from your watch
+- Complete guide for submitting detailed bug reports
+
+**Before creating an issue:**
+
+1. **Check the [FAQs](https://pay.b65dev.com/portfolio/faqs)** - your question may already be answered
+2. **Search existing issues** to avoid duplicates
+3. **Select the correct watch face** in your submission
+4. **Provide your device model** (e.g., Fenix 7X, Epix 2 Pro)
+5. **Include screenshots** when possible
+
 ## 🎯 How to Submit
 
 ### 🐛 Report a Bug
@@ -15,18 +34,18 @@ Have an idea to improve our watch faces? [**Request a feature →**](../../issue
 ### ❓ Ask a Question
 Need help or clarification? [**Ask a question →**](../../issues/new?template=question.md)
 
-## 📋 Before Submitting
+## 👥 Community Guidelines
 
-1. **Search existing issues** to avoid duplicates
-2. **Select the correct watch face** in your submission
-3. **Provide your device model** (e.g., Fenix 7X, Epix 2 Pro)
-4. **Include screenshots** when possible
+- **Be respectful** and constructive
+- **Provide details** to help us understand your issue
+- **One issue per submission** - don't combine multiple bugs/features
+- **Use English** when possible for wider community benefit
 
 ## 🔗 Useful Links
 
 - **[Portfolio](https://pay.b65dev.com/portfolio)** - All our watch faces
 - **[FAQs](https://pay.b65dev.com/portfolio/faqs)** - Frequently Asked Questions
-- **[Purchase Licenses](https://pay.b65dev.com/checkout/buy)** - Buy watch face licenses
+- **[Contact Us](https://pay.b65dev.com/portfolio/contact)** - Direct support
 
 ## 📖 Documentation
 
@@ -34,13 +53,6 @@ Each watch face has its own documentation repository:
 
 - [FUSION IV Documentation](https://github.com/b65dev/Fusion_IV_Docs)
 - *(Other docs coming soon...)*
-
-## 👥 Community Guidelines
-
-- **Be respectful** and constructive
-- **Provide details** to help us understand your issue
-- **One issue per submission** - don't combine multiple bugs/features
-- **Use English** when possible for wider community benefit
 
 ## 🏷️ Issue Labels
 
@@ -54,10 +66,6 @@ We use the following labels to organize issues:
 - `basic-fit` - Related to Basic-Fit watch face
 - `basic-goals` - Related to Basic Goals watch face
 - `basic-graph` - Related to Basic Graph watch face
-
-## 📞 Direct Support
-
-For urgent matters or licensing issues, contact us at: **support@b65dev.com**
 
 ---
 

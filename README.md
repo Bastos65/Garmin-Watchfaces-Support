@@ -54,19 +54,6 @@ Each watch face has its own documentation repository:
 - [FUSION IV Documentation](https://github.com/Bastos65/Fusion-IV-Docs)
 - *(Other docs coming soon...)*
 
-## 🏷️ Issue Labels
-
-We use the following labels to organize issues:
-
-- `bug` - Something isn't working correctly
-- `enhancement` - New feature or improvement request
-- `question` - Help needed or clarification requested
-- `fusion-iv` - Related to FUSION IV watch face
-- `pureview` - Related to PureView watch face
-- `basic-fit` - Related to Basic-Fit watch face
-- `basic-goals` - Related to Basic Goals watch face
-- `basic-graph` - Related to Basic Graph watch face
-
 ---
 
 **Thank you for helping us improve our watch faces! 🙏**

@@ -3,7 +3,7 @@ name: Feature Request
 about: Suggest a new feature or enhancement for any Garmin watchface
 title: '[FEATURE] '
 labels: enhancement
-assignees: ''
+assignees: Bastos65
 ---
 
 ## 🚀 Feature Description

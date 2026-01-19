@@ -3,7 +3,7 @@ name: Question
 about: Ask a question about any Garmin watchface
 title: '[QUESTION] '
 labels: question
-assignees: ''
+assignees: Bastos65
 ---
 
 ## ❓ Question

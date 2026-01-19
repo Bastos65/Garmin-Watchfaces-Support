@@ -3,7 +3,7 @@ name: Bug Report
 about: Report a bug or issue with any Garmin watchface
 title: '[BUG] '
 labels: bug
-assignees: ''
+assignees: Bastos65
 ---
 
 ## 🐛 Bug Description

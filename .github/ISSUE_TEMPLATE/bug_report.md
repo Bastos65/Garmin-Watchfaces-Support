@@ -60,3 +60,15 @@ Add any other context about the problem here.
 ## 🔍 Debug Information
 
 If available, include any error messages or debug information.
+
+## 📎 Attaching Files (Images / Logs)
+
+You can attach images or log files directly to the issue via the GitHub interface (drag-and-drop or attachment button).
+
+- **For logs:** Compress multiple files into a `.zip` if needed and remove any sensitive data (tokens, credentials, PII)
+- **For visual errors:** Prefer screenshots
+- **For debug logs:** Attach `.txt`/`.log` files or a `.zip` archive
+- **If files exceed upload limit:** Use an external service (Gist, file hosting) and paste the link
+
+**📖 How to retrieve log files from your watch:**  
+👉 [Log Retrieval Guide](https://pay.b65dev.com/portfolio/faqs#faq-logs)

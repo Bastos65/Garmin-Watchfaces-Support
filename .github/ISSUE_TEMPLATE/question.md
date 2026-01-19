@@ -36,3 +36,14 @@ Which watchface is your question about?
 ## 📋 Additional Context
 
 Add any other context or screenshots about your question here.
+
+## 📎 Attaching Files (Images / Logs)
+
+You can attach images or log files directly to the issue via the GitHub interface (drag-and-drop or attachment button).
+
+- **For screenshots:** Attach `.png`/`.jpg` images to illustrate your question
+- **For logs:** Compress files into a `.zip` if needed and remove any sensitive data
+- **If files exceed upload limit:** Use an external service (Gist, file hosting) and paste the link
+
+**📖 How to retrieve log files from your watch:**  
+👉 [Log Retrieval Guide](https://pay.b65dev.com/portfolio/faqs#faq-logs)

@@ -54,3 +54,11 @@ How important is this feature to you?
 ## 📋 Additional Context
 
 Add any other context, screenshots, or information about the feature request here.
+
+## 📎 Attaching Files (Images / Mockups)
+
+You can attach images or files directly to the issue via the GitHub interface (drag-and-drop or attachment button).
+
+- **For mockups:** Attach `.png`/`.jpg` images or design files
+- **For visual examples:** Prefer screenshots to illustrate your idea
+- **If files exceed upload limit:** Use an external service (Gist, file hosting) and paste the link

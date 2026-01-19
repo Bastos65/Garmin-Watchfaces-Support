@@ -12,13 +12,9 @@ A clear and concise description of what the bug is.
 
 ## 🎯 Watchface
 
-Which watchface is affected?
-- [ ] Fusion IV
-- [ ] PureView
-- [ ] Basic-Fit
-- [ ] Basic Goals
-- [ ] Basic Graph
-- [ ] Other (please specify):
+Which watchface is affected? (e.g., Fusion IV, PureView, Basic-Fit, etc.)
+
+**Watchface name:**
 
 ## 📱 Device Information
 

@@ -12,14 +12,9 @@ A clear and concise description of the feature you'd like to see.
 
 ## 🎯 Watchface
 
-Which watchface would this feature be for?
-- [ ] Fusion IV
-- [ ] PureView
-- [ ] Basic-Fit
-- [ ] Basic Goals
-- [ ] Basic Graph
-- [ ] All watchfaces
-- [ ] Other (please specify):
+Which watchface would this feature be for? (e.g., Fusion IV, PureView, All watchfaces, etc.)
+
+**Watchface name:**
 
 ## 🎯 Problem It Solves
 

@@ -51,7 +51,7 @@ Need help or clarification? [**Ask a question →**](../../issues/new?template=q
 
 Each watch face has its own documentation repository:
 
-- [FUSION IV Documentation](https://github.com/b65dev/Fusion_IV_Docs)
+- [FUSION IV Documentation](https://github.com/Bastos65/Fusion-IV-Docs)
 - *(Other docs coming soon...)*
 
 ## 🏷️ Issue Labels

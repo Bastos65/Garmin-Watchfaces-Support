@@ -12,14 +12,9 @@ Please describe your question clearly.
 
 ## 🎯 Watchface
 
-Which watchface is your question about?
-- [ ] Fusion IV
-- [ ] PureView
-- [ ] Basic-Fit
-- [ ] Basic Goals
-- [ ] Basic Graph
-- [ ] General question
-- [ ] Other (please specify):
+Which watchface is your question about? (e.g., Fusion IV, PureView, General question, etc.)
+
+**Watchface name:**
 
 ## 📱 Device Information (if relevant)
 

@@ -8,39 +8,39 @@ assignees: ''
 
 ## 🚀 Feature Description
 
-A clear and concise description of the feature you'd like to see.
+_<sub>A clear and concise description of the feature you'd like to see.</sub>_
 
 ## 🎯 Watchface
 
-Which watchface would this feature be for? (e.g., Fusion IV, PureView, All watchfaces, etc.)
+_<sub>Which watchface would this feature be for? (e.g., Fusion IV, PureView, All watchfaces, etc.)</sub>_
 
 **Watchface name:**
 
 ## 🎯 Problem It Solves
 
-Describe the problem this feature would solve or the use case it addresses.
+_<sub>Describe the problem this feature would solve or the use case it addresses.</sub>_
 
 ## 💡 Proposed Solution
 
-Describe how you envision this feature working.
+_<sub>Describe how you envision this feature working.</sub>_
 
 ## 🔄 Alternatives Considered
 
-Have you considered any alternative solutions or workarounds?
+_<sub>Have you considered any alternative solutions or workarounds?</sub>_
 
 ## 📱 Device Compatibility
 
-Which watch models would benefit from this feature?
+_<sub>Which watch models would benefit from this feature?</sub>_
 - [ ] All watches
-- [ ] Specific models: (please specify)
+- [ ] Specific models: _<sub>(please specify)</sub>_
 
 ## 📸 Mockups or Examples
 
-If applicable, add mockups, sketches, or examples from other watch faces.
+_<sub>If applicable, add mockups, sketches, or examples from other watch faces.</sub>_
 
 ## 📊 Priority
 
-How important is this feature to you?
+_<sub>How important is this feature to you?</sub>_
 - [ ] Nice to have
 - [ ] Would be useful
 - [ ] Very important
@@ -48,7 +48,7 @@ How important is this feature to you?
 
 ## 📋 Additional Context
 
-Add any other context, screenshots, or information about the feature request here.
+_<sub>Add any other context, screenshots, or information about the feature request here.</sub>_
 
 ## 📎 Attaching Files (Images / Mockups)
 

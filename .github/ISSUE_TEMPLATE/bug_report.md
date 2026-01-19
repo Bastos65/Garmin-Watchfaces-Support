@@ -8,54 +8,54 @@ assignees: ''
 
 ## 🐛 Bug Description
 
-A clear and concise description of what the bug is.
+_<sub>A clear and concise description of what the bug is.</sub>_
 
 ## 🎯 Watchface
 
-Which watchface is affected? (e.g., Fusion IV, PureView, Basic-Fit, etc.)
+_<sub>Which watchface is affected? (e.g., Fusion IV, PureView, Basic-Fit, etc.)</sub>_
 
 **Watchface name:**
 
 ## 📱 Device Information
 
-- **Watch Model**: (e.g., Fenix 7X, Epix 2 Pro 47mm)
-- **Firmware Version**: (e.g., 10.30)
-- **Watch Face Version**: (e.g., Beta 1.0.0)
+- **Watch Model**: _<sub>(e.g., Fenix 7X, Epix 2 Pro 47mm)</sub>_
+- **Firmware Version**: _<sub>(e.g., 10.30)</sub>_
+- **Watch Face Version**: _<sub>(e.g., Beta 1.0.0)</sub>_
 
 ## 🔄 Steps to Reproduce
 
-1. Go to '...'
-2. Configure '...'
-3. See error
+1. _<sub>Go to '...'</sub>_
+2. _<sub>Configure '...'</sub>_
+3. _<sub>See error</sub>_
 
 ## ✅ Expected Behavior
 
-A clear description of what you expected to happen.
+_<sub>A clear description of what you expected to happen.</sub>_
 
 ## ❌ Actual Behavior
 
-A clear description of what actually happened.
+_<sub>A clear description of what actually happened.</sub>_
 
 ## 📸 Screenshots
 
-If applicable, add screenshots to help explain your problem.
+_<sub>If applicable, add screenshots to help explain your problem.</sub>_
 
 ## ⚙️ Settings
 
-Please describe any relevant settings you have configured:
-- Data fields configured
-- Colors customized
-- Weather provider
-- Refresh rate
-- Other relevant settings
+_<sub>Please describe any relevant settings you have configured:</sub>_
+- _<sub>Data fields configured</sub>_
+- _<sub>Colors customized</sub>_
+- _<sub>Weather provider</sub>_
+- _<sub>Refresh rate</sub>_
+- _<sub>Other relevant settings</sub>_
 
 ## 📋 Additional Context
 
-Add any other context about the problem here.
+_<sub>Add any other context about the problem here.</sub>_
 
 ## 🔍 Debug Information
 
-If available, include any error messages or debug information.
+_<sub>If available, include any error messages or debug information.</sub>_
 
 ## 📎 Attaching Files (Images / Logs)
 

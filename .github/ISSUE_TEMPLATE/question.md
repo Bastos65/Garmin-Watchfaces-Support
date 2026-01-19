@@ -8,18 +8,18 @@ assignees: ''
 
 ## ❓ Question
 
-_<sub>Please describe your question clearly.</sub>_
+_Please describe your question clearly._
 
 ## 🎯 Watchface
 
-_<sub>Which watchface is your question about? (e.g., Fusion IV, PureView, General question, etc.)</sub>_
+_Which watchface is your question about? (e.g., Fusion IV, PureView, General question, etc.)_
 
 **Watchface name:**
 
 ## 📱 Device Information (if relevant)
 
-- **Watch Model**: _<sub>(e.g., Fenix 7X, Epix 2 Pro 47mm)</sub>_
-- **Watch Face Version**: _<sub>(e.g., Beta 1.0.0)</sub>_
+- **Watch Model**: _(e.g., Fenix 7X, Epix 2 Pro 47mm)_
+- **Watch Face Version**: _(e.g., Beta 1.0.0)_
 
 ## 🔍 What I've Already Tried
 
@@ -30,7 +30,7 @@ _<sub>Which watchface is your question about? (e.g., Fusion IV, PureView, Genera
 
 ## 📋 Additional Context
 
-_<sub>Add any other context or screenshots about your question here.</sub>_
+_Add any other context or screenshots about your question here._
 
 ## 📎 Attaching Files (Images / Logs)
 

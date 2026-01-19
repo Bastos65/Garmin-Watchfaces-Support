@@ -19,7 +19,7 @@ This section covers:
 
 1. **Check the [FAQs](https://pay.b65dev.com/portfolio/faqs)** - your question may already be answered
 2. **Search existing issues** to avoid duplicates
-3. **Select the correct watch face** in your submission
+3. **Indicate the watch face name** in your submission
 4. **Provide your device model** (e.g., Fenix 7X, Epix 2 Pro)
 5. **Include screenshots** when possible
 

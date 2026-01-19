@@ -8,54 +8,54 @@ assignees: ''
 
 ## 🐛 Bug Description
 
-_<sub>A clear and concise description of what the bug is.</sub>_
+_A clear and concise description of what the bug is._
 
 ## 🎯 Watchface
 
-_<sub>Which watchface is affected? (e.g., Fusion IV, PureView, Basic-Fit, etc.)</sub>_
+_Which watchface is affected? (e.g., Fusion IV, PureView, Basic-Fit, etc.)_
 
 **Watchface name:**
 
 ## 📱 Device Information
 
-- **Watch Model**: _<sub>(e.g., Fenix 7X, Epix 2 Pro 47mm)</sub>_
-- **Firmware Version**: _<sub>(e.g., 10.30)</sub>_
-- **Watch Face Version**: _<sub>(e.g., Beta 1.0.0)</sub>_
+- **Watch Model**: _(e.g., Fenix 7X, Epix 2 Pro 47mm)_
+- **Firmware Version**: _(e.g., 10.30)_
+- **Watch Face Version**: _(e.g., Beta 1.0.0)_
 
 ## 🔄 Steps to Reproduce
 
-1. _<sub>Go to '...'</sub>_
-2. _<sub>Configure '...'</sub>_
-3. _<sub>See error</sub>_
+1. _Go to '...'_
+2. _Configure '...'_
+3. _See error_
 
 ## ✅ Expected Behavior
 
-_<sub>A clear description of what you expected to happen.</sub>_
+_A clear description of what you expected to happen._
 
 ## ❌ Actual Behavior
 
-_<sub>A clear description of what actually happened.</sub>_
+_A clear description of what actually happened._
 
 ## 📸 Screenshots
 
-_<sub>If applicable, add screenshots to help explain your problem.</sub>_
+_If applicable, add screenshots to help explain your problem._
 
 ## ⚙️ Settings
 
-_<sub>Please describe any relevant settings you have configured:</sub>_
-- _<sub>Data fields configured</sub>_
-- _<sub>Colors customized</sub>_
-- _<sub>Weather provider</sub>_
-- _<sub>Refresh rate</sub>_
-- _<sub>Other relevant settings</sub>_
+_Please describe any relevant settings you have configured:_
+- _Data fields configured_
+- _Colors customized_
+- _Weather provider_
+- _Refresh rate_
+- _Other relevant settings_
 
 ## 📋 Additional Context
 
-_<sub>Add any other context about the problem here.</sub>_
+_Add any other context about the problem here._
 
 ## 🔍 Debug Information
 
-_<sub>If available, include any error messages or debug information.</sub>_
+_If available, include any error messages or debug information._
 
 ## 📎 Attaching Files (Images / Logs)
 

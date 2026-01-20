@@ -1,7 +1,7 @@
 ---
 name: Feature Request
 about: Suggest a new feature or enhancement for any Garmin watchface
-title: '[FEATURE] '
+title: '[FEATURE]'
 labels: enhancement
 assignees: Bastos65
 ---
@@ -16,7 +16,7 @@ _Which watchface would this feature be for? (e.g., Fusion IV, PureView, All watc
 
 **Watchface name:**
 
-## 🎯 Problem It Solves
+## 💭 Problem It Solves
 
 _Describe the problem this feature would solve or the use case it addresses._
 

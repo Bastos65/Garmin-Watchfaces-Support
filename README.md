@@ -53,5 +53,3 @@ Each watch face has its own documentation repository:
 
 - [FUSION IV Documentation](https://github.com/Bastos65/Fusion-IV-Docs)
 - *(Other docs coming soon...)*
-
----

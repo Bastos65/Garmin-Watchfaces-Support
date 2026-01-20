@@ -1,7 +1,7 @@
 ---
 name: Question
 about: Ask a question about any Garmin watchface
-title: '[QUESTION] '
+title: '[QUESTION]'
 labels: question
 assignees: Bastos65
 ---
@@ -19,6 +19,7 @@ _Which watchface is your question about? (e.g., Fusion IV, PureView, General que
 ## 📱 Device Information (if relevant)
 
 - **Watch Model**: _(e.g., Fenix 7X, Epix 2 Pro 47mm)_
+- **Firmware Version**: _(e.g., 10.30)_
 - **Watch Face Version**: _(e.g., Beta 1.0.0)_
 
 ## 🔍 What I've Already Tried

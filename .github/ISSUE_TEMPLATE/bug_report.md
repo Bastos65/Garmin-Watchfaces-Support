@@ -1,7 +1,7 @@
 ---
 name: Bug Report
 about: Report a bug or issue with any Garmin watchface
-title: '[BUG] '
+title: '[BUG]'
 labels: bug
 assignees: Bastos65
 ---

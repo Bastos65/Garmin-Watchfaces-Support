@@ -55,5 +55,3 @@ Each watch face has its own documentation repository:
 - *(Other docs coming soon...)*
 
 ---
-
-**Thank you for helping us improve our watch faces! 🙏**
